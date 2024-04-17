@@ -12,5 +12,10 @@ The inspiration comes from a common problem in daily life: how to accurately det
 Adhi Harmoko Saputro(2018) states that the change in the banana's skin color from green to yellow, which signals the banana's maturity, is due to the breakdown of chlorophyll pigment. The real-time classification of bananas using an image processing tool in MATLAB, which employs the RGB color detection technique, is a non-destructive, quick, reliable, and effective process for categorizing bananas (Maithilee Nagesh Kulkarni and Rohini Mudhalwadkar, 2017). A simple algorithm using the CNN model is proposed to determine the ripeness color of fruit, specifically bananas, which can enhance the efficiency for cashiers and customers at counters by simplifying the process of determining fruit and vegetable prices, potentially replacing the conventional weighing method and saving time(Priyanka et al., n.d., 2020).  
 
 **Research Question**  
-How to develop an accurate and efficient real-time banana ripeness detection system using deep learning technology and IoT devices?
+How to develop an accurate and efficient real-time banana ripeness detection system using deep learning technology and IoT devices?  
+
+**Application Overview**  
+This project contains three main parts. First of all, take photos of bananas in different maturity stages and find some pictures online to form banana datasets. Secondly, import datasets in Edge Impulse and choose the best deep learning model by conducting 63 experiments by changing parameters, such as learning block, model chosen, learning rate, dropout rate, batch size, data augmentation and epochs. Lastly, export the code and deploy it on a mobile phone to detect whether the banana is underripe, ripe or overripe.  
+![Figure 1. Application diagram of the building blocks of the banana ripeness detection](./imgs/Figure 1.png)
+Figure 1. Application diagram of the building blocks of the banana ripeness detection  
 
