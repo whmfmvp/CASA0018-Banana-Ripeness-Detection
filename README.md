@@ -31,7 +31,7 @@ The total number of collected data is 1,189 images, divided into three different
 |Underripe|325|82|407|
 |Ripe|283|68|351|
 |Overripe|348|83|431|
-|Total|956|233|1189|
+|Total|956|233|1189|  
 Table 1. Datasets description  
 
 Data pre-processing
@@ -58,7 +58,7 @@ Figure 6. Experiments of testing neural network architecture
 
 After trying several experiments, I finally decided to use the MobileNetV2 model because it has better testing accuracy compare with MobileNetV1.  
 
-**Experiments**
+**Experiments**  
 ![Table 2. Parameters changes made during experiments](imgs/Table_2.png)   
 Table 2. Parameters changes made during experiments  
 
@@ -131,9 +131,8 @@ Future development
 2. Maithilee Nagesh Kulkarni and Rohini Mudhalwadkar (2017). Data driven modelling for banana ripeness assessment. Doi: https://doi.org/10.1109/iccons.2017.8250545.  
 3. Priyanka, C., Shikha Rachel, V., Harshith, B. and Moulisha, R. (n.d.). Color Recognition Algorithm using a Neural Network Model in Determining the Ripeness of a Banana. [online] Available at: https://jespublication.com/upload/2020-1106123.pdf.  
 4. Sandler, M. et al. (2018) “MobileNetV2: Inverted Residuals and Linear Bottlenecks,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. [Online]. 2018 IEEE. pp. 4510–4520.  
-‌ 
+‌
 **Declaration of Authorship**  
 I, Haoming Wang, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 Haoming Wang  
 2024.04.17  
-
