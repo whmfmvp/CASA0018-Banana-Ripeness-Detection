@@ -32,6 +32,7 @@ The total number of collected data is 1,189 images, divided into three different
 |Ripe|283|68|351|
 |Overripe|348|83|431|
 |Total|956|233|1189|  
+
 Table 1. Datasets description  
 
 Data pre-processing
@@ -133,6 +134,7 @@ Future development
 4. Sandler, M. et al. (2018) “MobileNetV2: Inverted Residuals and Linear Bottlenecks,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. [Online]. 2018 IEEE. pp. 4510–4520.  
 ‌
 **Declaration of Authorship**  
-I, Haoming Wang, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, Haoming Wang, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.  
 Haoming Wang  
 2024.04.17  
+
