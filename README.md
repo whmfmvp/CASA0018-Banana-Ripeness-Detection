@@ -26,12 +26,13 @@ I went to the supermarket to buy some bananas and took photos of them at differe
 Datasets  
 The total number of collected data is 1,189 images, divided into three different labels(Underripe, Ripe and Overripe). Among them, 80 percent images are used for model training and the remaining 20 percent are used for model testing. In addition, 20 percent training images are used for validation, so total ratio of training, validation and testing is 60:20:20.  
 
-|Training|Testing|Total|
-|---------|--------|-------|
+|Classification|Training|Testing|Total|
+|---------|--------|-------|--------|
 |Underripe|325|82|407|
 |Ripe|283|68|351|
 |Overripe|348|83|431|
-|Total|956|233|1189|  
+|Total|956|233|1189|
+
 Table 1. Datasets description  
 
 Data pre-processing
