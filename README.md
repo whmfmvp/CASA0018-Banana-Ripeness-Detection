@@ -19,3 +19,30 @@ This project contains three main parts. First of all, take photos of bananas in 
 ![Figure 1. Application diagram of the building blocks of the banana ripeness detection](imgs/Figure_1.png)  
 Figure 1. Application diagram of the building blocks of the banana ripeness detection  
 
+**Data**  
+Data source  
+I went to the supermarket to buy some bananas and took photos of them at different times of purchase and storage to obtain a dataset of underripe, ripe, and overripe bananas. In addition, I collected banana images from different maturity stages online to enrich the dataset and enable the model to receive sufficient training.  
+
+Datasets  
+The total number of collected data is 1,189 images, divided into three different labels(Underripe, Ripe and Overripe). Among them, 80 percent images are used for model training and the remaining 20 percent are used for model testing. In addition, 20 percent training images are used for validation, so total ratio of training, validation and testing is 60:20:20.  
+
+	|Training|	Testing|	Total|
+ |---------|--------|-------|
+|Underripe|	325|	82|	407|
+|Ripe|	283|	68|	351|
+|Overripe|	348|	83|	431|
+|Total|	956|	233|	1189|  
+Table 1. Datasets description  
+
+Data pre-processing
+The original images have different sizes, I resize all images with 96 width and 96 height in order to unify the banana datasets. Besides, I use “fit shortest axis” and “squash” two different resize modes to test which one has better accuracy performance.  
+
+![Figure 2. Feature explorer of three ripeness types of banana dataset](imgs/Figure_2.png)  
+Figure 2. Feature explorer of three ripeness types of banana dataset  
+
+![Figure 3. Create impulse interface](imgs/Figure_3.png)  
+Figure 3. Create impulse interface  
+
+
+
+
