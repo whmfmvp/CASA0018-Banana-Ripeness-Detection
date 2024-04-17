@@ -132,7 +132,7 @@ Future development
 2.Maithilee Nagesh Kulkarni and Rohini Mudhalwadkar (2017). Data driven modelling for banana ripeness assessment. Doi: https://doi.org/10.1109/iccons.2017.8250545.  
 3.Priyanka, C., Shikha Rachel, V., Harshith, B. and Moulisha, R. (n.d.). Color Recognition Algorithm using a Neural Network Model in Determining the Ripeness of a Banana. [online] Available at: https://jespublication.com/upload/2020-1106123.pdf.  
 4.Sandler, M. et al. (2018) “MobileNetV2: Inverted Residuals and Linear Bottlenecks,” in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition. [Online]. 2018 IEEE. pp. 4510–4520.  
-‌
+‌  
 **Declaration of Authorship**  
 I, Haoming Wang, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.  
 Haoming Wang  
